@@ -1,0 +1,6 @@
+The employee with the highest salary is: Tara, with a salary of 118000.00
+
+Number of Employees in Each Department:
+Department: Engineering, Number of Employees: 34
+Department: Marketing, Number of Employees: 33
+Department: Sales, Number of Employees: 33
